@@ -32,7 +32,7 @@ namespace Metotlar
 
             }
 
-
+            Console.ReadKey();
             Console.WriteLine("-----------Metodlar--------");
 
             SepetManager sepetManager = new SepetManager();
